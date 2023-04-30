@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "__string": "c",
+        "utility": "c",
+        "variant": "c",
+        "algorithm": "c"
+    }
+
+}
